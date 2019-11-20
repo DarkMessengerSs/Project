@@ -4,4 +4,4 @@ sdsd
 sskkl
 ssb
 have changes
-Creating a new branch is quit & simple.
+Creathing a new branch is quick and simple.
